@@ -1,0 +1,9 @@
+[submodule "hugo-theme-next"]
+	path = hugo-theme-next
+	url = https://github.com/xtfly/hugo-theme-next.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/xtfly/hugo-theme-next.git
